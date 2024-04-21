@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm gitalyx</h1>
 <h3 align="center">A passionate rust and html</h3>
 
-- 🔭 I’m currently working on my blog [blog-website](https://github.com/gitalyx/journey-website)
+- 🔭 I’m currently working on my blog [portfolio](https://github.com/gitalyx/portfolio)
 
 - 🌱 I’m currently learning **rust html bash**
 
