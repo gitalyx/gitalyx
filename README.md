@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm gitalyx</h1>
-<h3 align="center">A passionate rust and html</h3>
+<h3 align="center">A passionate of low level programing languages and linux</h3>
 
-- 🔭 I’m currently working on my blog [portfolio](https://github.com/gitalyx/portfolio)
+- 🔭 I’m currently working on my **portfolio**
 
-- 🌱 I’m currently learning **rust html bash**
+- 🌱 I’m currently learning **rust and nix**
 
 - 👨‍💻 All of my projects are available at [github.com/gitalyx](github.com/gitalyx)
 
-- 📝 I regularly write articles on [my blog](my blog)
-
-- 💬 Ask me about **rust bash html**
+- 📝 I regularly write articles on [gitalyx.github.io/portfolio](gitalyx.github.io/portfolio)
 
 - 📫 How to reach me **gitalyx@gmail.com**
 
-- 📄 Know about my experiences [idk](idk)
-
-- ⚡ Fun fact **i love math**
+- ⚡ Fun fact **I use nixos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,5 +19,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
-
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
