@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **rust and nix**
 
-- 👨‍💻 All of my projects are available at [github.com/gitalyx](github.com/gitalyx)
+- 👨‍💻 All of my projects are available at [github.com/gitalyx]
 
 - 📝 I regularly write articles on [gitalyx.github.io/portfolio](gitalyx.github.io/portfolio)
 
