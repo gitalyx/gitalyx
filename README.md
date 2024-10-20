@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [gitalyx.github.io/portfolio](gitalyx.github.io/portfolio)
 
-- 📫 How to reach me **gitalyx@gmail.com**
+- 📫 How to reach me **alyxrocode@proton.me**
 
 - ⚡ Fun fact **I use nixos**
 
