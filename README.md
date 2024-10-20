@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitalyx&label=Profile%20views&color=0e75b6&style=flat" alt="gitalyx" /> </p>
 
-- 🔭 I’m currently working on [Peo(video editor)](github.com/gitalyx/peo)
+- 🔭 I’m currently working on [Peo(video editor)](/peo)
 
 - 🌱 I’m currently learning **Rust**
 
