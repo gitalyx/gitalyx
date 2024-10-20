@@ -5,13 +5,14 @@
 
 - 🌱 I’m currently learning **rust and nix**
 
-- 👨‍💻 All of my projects are available at github.com/gitalyx
+- 👨‍💻 All of my projects are available at [github.com/gitalyx]
+()
 
 - 📝 I regularly write articles on [gitalyx.github.io/portfolio](gitalyx.github.io/portfolio)
 
 - 📫 How to reach me **alyxrocode@proton.me**
 
-- ⚡ Fun fact **I use nixos**
+- ⚡ Fun fact **I use artix linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
