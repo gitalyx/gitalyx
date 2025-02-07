@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Alyxrocode@proton.me**
 
-- ⚡ Fun fact **I use artix linux btw**
+- ⚡ Fun fact **I use arch linux btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
